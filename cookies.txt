@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bmcedirect.ma	TRUE	/	FALSE	1999999999	nid	23C58A398D69340EE259D5D6907783A5FC1144D3
+www.bmcedirect.ma	TRUE	/	FALSE	1999999999	MIDWCTXID	E5533FB3E3C11278F124D310A325754B0386C42878A4
+.www.bmcedirect.ma	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_3_sn_1DFD1FCEE20016282B6356E78C91F667_perc_100000_ol_0_mul_1_app-3Aaaf9f8a7c4104c06_1
+
